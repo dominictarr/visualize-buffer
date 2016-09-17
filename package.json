@@ -1,0 +1,13 @@
+{
+  "name": "visualize-buffer",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/visualize-buffer",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/visualize-buffer.git"
+  },
+  "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (dominictarr.com)",
+  "license": "MIT"  
+}
+
